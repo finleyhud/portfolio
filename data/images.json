@@ -1,0 +1,26 @@
+[
+  {
+    "src": "images/portrait-01.jpg",
+    "title": "Quiet Light",
+    "category": "Portraits",
+    "alt": "Portrait of a woman sitting by a window in soft light"
+  },
+  {
+    "src": "images/travel-01.jpg",
+    "title": "Morning in Kyoto",
+    "category": "Travel",
+    "alt": "Empty street in Kyoto with soft morning fog"
+  },
+  {
+    "src": "images/editorial-01.jpg",
+    "title": "Contrast",
+    "category": "Editorial",
+    "alt": "High-contrast studio portrait with dramatic shadows"
+  },
+  {
+    "src": "images/wedding-01.jpg",
+    "title": "First Look",
+    "category": "Weddings",
+    "alt": "Bride and groom sharing a candid moment outdoors"
+  }
+]
